@@ -1,5 +1,5 @@
 # Language Tasks
-A collection of experimental tasks created in psychoPy, for language brain mapping. The tasks are written in python.
+A collection of language experimental tasks created in psychoPy.
 
 ### Dependencies: python3, psychopy3 
 
